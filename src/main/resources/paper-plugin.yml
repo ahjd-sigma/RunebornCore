@@ -1,0 +1,4 @@
+name: RunebornCore
+version: 0.1.0
+main: ahjd.runebornCore.core.RunebornCore
+api-version: 1.21
